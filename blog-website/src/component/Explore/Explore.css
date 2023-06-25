@@ -1,0 +1,9 @@
+.author-info {
+  align-items: center;
+  text-align: center;
+  border: 2px solid black;
+  width: 500px;
+  position: relative;
+  border-radius: 5px;
+left: 30%;
+}
